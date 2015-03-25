@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<!-- Put site-specific property overrides in this file. -->
+
+<configuration>
+	
+	<property>
+		<name>dfs.namenode.http-address</name>
+		<value>hadoop-master:50070</value>
+		<description>The name of the default file system. A URI whose scheme and authority determine the FileSystem implementation.</description>
+	</property>
+	
+	<property>
+		<name>dfs.datanode.http.address</name>
+		<value><%= hostname %>:50075</value>
+		<description>The datanode http server address and port.</description>
+	</property>
+	
+</configuration>

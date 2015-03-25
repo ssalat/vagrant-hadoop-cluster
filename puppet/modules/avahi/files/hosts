@@ -1,0 +1,11 @@
+127.0.0.1		localhost
+192.168.66.10	hadoop-master.local	hadoop-master
+192.168.66.11	hadoop-slave1.local	hadoop-slave1
+192.168.66.12	hadoop-slave2.local	hadoop-slave2
+192.168.66.13	hadoop-slave3.local	hadoop-slave3
+192.168.66.14	hadoop-slave4.local	hadoop-slave4
+192.168.66.15	hadoop-slave5.local	hadoop-slave5
+192.168.66.16	hadoop-slave6.local	hadoop-slave6
+192.168.66.17	hadoop-slave7.local	hadoop-slave7
+192.168.66.18	hadoop-slave8.local	hadoop-slave8
+192.168.66.19	hadoop-slave9.local	hadoop-slave9
